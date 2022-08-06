@@ -5,7 +5,5 @@ abcd
 
 uuuu
 
-abcd
-
 1234
 
